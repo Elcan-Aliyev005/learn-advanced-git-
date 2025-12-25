@@ -1,0 +1,25 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "echo \"qaaaa build oldu error merror yoxdu\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elcan-Aliyev005/learn-advanced-git-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Elcan-Aliyev005/learn-advanced-git-/issues"
+  },
+  "homepage": "https://github.com/Elcan-Aliyev005/learn-advanced-git-#readme",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
