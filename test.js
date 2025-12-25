@@ -1,6 +1,6 @@
 function test() {
 
-    console.log('dsdsdsds')
+    console.log('dsdsdsds')dsdsadsad
 
 }
 
